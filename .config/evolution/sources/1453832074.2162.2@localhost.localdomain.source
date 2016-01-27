@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=kwinnkawaii@gmail.com
+Enabled=true
+Parent=1453832074.2162.0@localhost.localdomain
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+SignImip=true
+TemplatesFolder=
+
+[Mail Identity]
+Address=kwinnkawaii@gmail.com
+Name=Unknown
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=1453832074.2162.3@localhost.localdomain
+RepliesToOriginFolder=false
